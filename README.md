@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashansa Soni</h1>
-<h3 align="center">A passionate frontendDriven by a deep curiosity for technology and innovation, I am passionate about learning and growing in the fields of Artificial Intelligence (AI), Machine Learning (ML), Web Development, and Cloud Computing. I constantly seek opportunities to expand my knowledge, stay updated with emerging trends, and apply my skills to build scalable, intelligent, and efficient solutions. With a strong problem-solving mindset, I enjoy experimenting with new tools, frameworks, and methodologies to create impactful and future-ready applications. </h3>
+<h3 align="center"> I am passionate about learning and growing in the fields of Artificial Intelligence (AI), Machine Learning (ML), Web Development, and Cloud Computing. I constantly seek opportunities to expand my knowledge, stay updated with emerging trends, and apply my skills to build scalable, intelligent, and efficient solutions. With a strong problem-solving mindset, I enjoy experimenting with new tools, frameworks, and methodologies to create impactful and future-ready applications. </h3>
 
 - 🌱 I’m currently learning **AI/ML**
 

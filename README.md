@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for **Internships/Job**
 
-- 👨‍💻 Portfolio [Click here](https://boisterous-tulumba-b3a25d.netlify.app/)
+- 👨‍💻 Portfolio [Click here](https://www.prashansasoni.tech/)
 
 - 📫 Email **prashansasoni534@gmail.com**
 

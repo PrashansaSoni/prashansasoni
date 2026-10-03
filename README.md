@@ -1,23 +1,50 @@
-<h1 align="center">Hi 👋, I'm Prashansa Soni</h1>
-<h3 align="center"> I am passionate about learning and growing in the fields of Artificial Intelligence (AI), Machine Learning (ML), Web Development, and Cloud Computing. I constantly seek opportunities to expand my knowledge, stay updated with emerging trends, and apply my skills to build scalable, intelligent, and efficient solutions. With a strong problem-solving mindset, I enjoy experimenting with new tools, frameworks, and methodologies to create impactful and future-ready applications. </h3>
+# Hi, I'm Prashansa 🌸
 
-- 🌱 I’m currently learning **AI/ML**
+**AI Engineer · DevOps · Backend**
 
-- 🤝 I’m looking for **Internships/Job**
+Hello, and welcome to my little corner of GitHub!
+I build agentic AI systems that reason in steps, and I ship them end to end with Docker, CI/CD and Nginx, because I like my projects to be smart *and* live in production. 
 
-- 👨‍💻 Portfolio [Click here](https://www.prashansasoni.tech/)
+- Associate Software Developer at RD Solutions
+- B.Tech in Computer Science (GPA 9.2/10)
+- Central University of Haryana
 
-- 📫 Email **prashansasoni534@gmail.com**
+[Portfolio](https://prashansasoni.tech) · [Resume](https://prashansasoni.tech/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/prashansa-soni-a298b7275) · [LeetCode](https://leetcode.com/u/prashansasoni/) · [Email](mailto:soniprashansa481@gmail.com)
 
-- 📄 Resume [Click here](https://boisterous-tulumba-b3a25d.netlify.app/cv.pdf)
+## AI Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashansa-soni-a298b7275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashansa-soni-a298b7275/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_prashansa.soni?igsh=mxniadqynxptbzkxdw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_prashansa.soni?igsh=mxniadqynxptbzkxdw==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prashansasoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prashansasoni/" height="30" width="40" /></a>
-</p>
+- Designing stateful, multi-step agents in **LangGraph** rather than one-shot LLM calls
+- Engineering the **context layer**: personas, history, task state and retrieved data, composed before every model call
+- Building **RAG** and database-backed memory on PostgreSQL and MongoDB
+- Integrating LLMs and speech models (Gemini, Whisper, Hugging Face) into real products
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+## DevOps
 
+- Containerizing every service with **Docker** for reproducible environments
+- Automating validation, builds, image creation and deployment with **GitHub Actions CI/CD**
+- Deploying on a **VPS behind an Nginx reverse proxy**
+- Speeding up releases with dependency and Docker-layer caching
+
+## Selected Projects
+
+- **[ChatAI](https://chitchat.prashansasoni.tech)**: agentic AI companion and interview platform with LangGraph stateful agents, a custom context-management layer and database-backed conversation pipelines. Dockerized and deployed through CI/CD on a VPS with Nginx.
+- **[DSA Platform](https://dsa.prashansasoni.tech)**: AI-assisted coding platform with 125+ problems and hidden test cases, supporting C++, Python and JavaScript, with LLM code review and an automated CI/CD pipeline.
+- **[Verto](https://github.com/PrashansaSoni/verto)**: AI-powered assessment platform with React and modular Python REST APIs.
+- **IntelliView**: AI interview platform using Whisper for transcription and Gemini for feedback.
+
+## Tech
+
+**AI:** LangGraph, Context Engineering, RAG, Gemini, Whisper, Hugging Face
+**DevOps:** Docker, GitHub Actions, CI/CD, Nginx, Linux, Git
+**Backend:** Python, Flask, Django, Node.js, REST APIs, ETL
+**Data:** PostgreSQL, MongoDB, MySQL, Redis
+**Frontend:** React.js, HTML, CSS
+
+## Achievements
+
+- Winner, College-Level AI Hackathon; Runner-Up, IIT Kharagpur Asteroid Venture Contest
+- Global Rank 131 on GeeksforGeeks; National Rank 2041 on HackerRank
+
+## 💌 Let's connect
+
+Always happy to chat about AI, agents, or building things that actually ship. Say hi! 🌷
